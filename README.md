@@ -1,2 +1,3 @@
 # basic_python_projects
-Basic Python Project Scripts
+
+This repository contains some beginner level Python project scripts
